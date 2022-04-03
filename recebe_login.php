@@ -6,7 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <script type="text/javascript">
         function funcionario(){
-            setTimeout("window.location='funcpage.php'",2000);
+            setTimeout("window.location='funcpage.php'",2500);
         }
         function tecnico(){
             setTimeout("window.location='tecpage.php'",2000);
